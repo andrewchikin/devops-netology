@@ -23,3 +23,5 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
+
+# - после git push -u origin fix
