@@ -33,6 +33,7 @@ Overlay network - это внутренняя виртуальная сеть к
 ```
 docker node ls
 ```
+![alt text](https://github.com/andrewchikin/devops-netology/blob/5e40653310389c0640e84bff8b4f3b99b755e4ea/virtd-homeworks/05-virt-05-docker-swarm/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
 
 ## Задача 3
 
@@ -42,6 +43,7 @@ docker node ls
 ```
 docker service ls
 ```
+![alt text]((https://github.com/andrewchikin/devops-netology/blob/5e40653310389c0640e84bff8b4f3b99b755e4ea/virtd-homeworks/05-virt-05-docker-swarm/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
 
 ## Задача 4 (*)
 
@@ -52,5 +54,6 @@ docker swarm update --autolock=true
 ```
 –autolock=true обязывает вводить ключ разблокировки на ноде, чтобы она могла заново присоединиться к кластеру,
 если была перезапущена.
+![alt text](https://github.com/andrewchikin/devops-netology/blob/5e40653310389c0640e84bff8b4f3b99b755e4ea/virtd-homeworks/05-virt-05-docker-swarm/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.png)
 
 
