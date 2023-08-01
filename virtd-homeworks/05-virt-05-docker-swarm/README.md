@@ -43,7 +43,7 @@ docker node ls
 ```
 docker service ls
 ```
-![alt text]((https://github.com/andrewchikin/devops-netology/blob/5e40653310389c0640e84bff8b4f3b99b755e4ea/virtd-homeworks/05-virt-05-docker-swarm/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
+![alt text](https://github.com/andrewchikin/devops-netology/blob/5e40653310389c0640e84bff8b4f3b99b755e4ea/virtd-homeworks/05-virt-05-docker-swarm/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)
 
 ## Задача 4 (*)
 
